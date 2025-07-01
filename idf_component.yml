@@ -1,11 +1,12 @@
+name: esp-wifi-connect
+version: 2.4.3
+description: ESP32 WiFi Configuration
+license: MIT
 dependencies:
   idf: '>=5.3'
-description: ESP32 WiFi Configuration
 files:
   exclude:
   - .git
   - dist
-license: MIT
-repository: https://github.com/jlego/esp-wifi-connect
 url: https://github.com/jlego/esp-wifi-connect
-version: 2.4.3
+repository: https://github.com/jlego/esp-wifi-connect
